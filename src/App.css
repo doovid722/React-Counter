@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.btn {
+  margin: 3vw;
+  padding: 2vw 2vw 2vw 2vw;
+  border-color: #25013d;
+  border-radius: 2vw;
+  color: #ffffff;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  font-size: 2vw;
+  overflow: hidden;
+  background-color: transparent;
+  backdrop-filter: blur(40px);
+}
+.btn:hover {
+  color: #ffffff;
+  background: #042f6e;
+  box-shadow: 0 0 55px #0084ff;
+}
+
+.count {
+  padding: 0;
+  height: 27vw;
+  margin: 0;
+  font-size: 25vw;
+  color: rgb(241, 165, 165);
+  font-style: italic;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: black;
+}

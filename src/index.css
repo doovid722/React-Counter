@@ -1,0 +1,5 @@
+body {
+    margin: 0;
+    background-image: url(/src/img/landscape.webp);
+    background-size: cover;
+}
